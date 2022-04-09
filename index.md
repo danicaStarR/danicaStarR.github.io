@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome 
 
 1. 编辑_cfg文件的路径
 2. 路径位：
