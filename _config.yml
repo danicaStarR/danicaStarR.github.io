@@ -1,2 +1,7 @@
 source: ./docs/
 theme: jekyll-theme-merlot
+title: JekyllBlog
+subtitle: 'ds website'
+description: Just Do It
+author: Danicastar
+language: zh-CN
