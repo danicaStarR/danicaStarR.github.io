@@ -1,7 +1,7 @@
-source: ./docs/
+source: ./articles/
 theme: jekyll-theme-merlot
-title: JekyllBlog
+title: Ds_Blog
 subtitle: 'ds website'
-description: Just Do It
+description: 😨
 author: Danicastar
 language: zh-CN
