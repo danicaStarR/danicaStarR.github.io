@@ -1,5 +1,5 @@
 source: ./articles/
-remote_theme: KeJunMao/jekyll-theme-mdui
+theme: jekyll-theme-merlot
 title: Ds_Blog
 subtitle: 'ds website'
 description: 😨
