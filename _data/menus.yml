@@ -10,7 +10,7 @@
 - name: 友链
   url: /friends/
   icon: "&#xe8a3;"
-- name: 编辑器
+- name: Editor
   url: /editor/
   icon: "&#xe150;"
 - name: navSearch
