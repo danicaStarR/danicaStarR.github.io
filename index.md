@@ -27,9 +27,10 @@
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
+### Jekyll 主题
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/danicaStarR/danicaStarR.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- 您的 Pages 站点将使用您在 [存储库设置](https://github.com/danicaStarR/danicaStarR.github.io/settings/pages) 中选择的 Jekyll 主题的布局和样式。 这个主题的名称保存在 Jekyll `_config.yml` 配置文件中。
 
 ### Support or Contact
 
