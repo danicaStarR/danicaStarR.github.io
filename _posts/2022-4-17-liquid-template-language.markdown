@@ -2,7 +2,7 @@
 layout: post
 title:  "Liquid 模板语言"
 date:   2022-4-17 13:35:06 +0800
-categories: Games
+categories: Page
 tags: Jekyll
 img: https://ooo.0o0.ooo/2017/05/27/5929360544b21.jpg
 ---
