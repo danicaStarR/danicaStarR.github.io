@@ -1,8 +1,8 @@
-title: "Jekyll-Theme-MDUI"
-description: "A Jekyll theme based on MDUI"
+title: "DanicaStar's GitPages Blog"
+description: "Good!"
 url: 
 baseurl: ""
-author: "KeJun"
+author: "Danicastar"
 paginate: 5
 paginate_path: "/blog/page:num/"
 
