@@ -2,7 +2,10 @@
 
 # Github Blog Page
 
->Use Jekyll theme based on mdui
+> Use Jekyll theme based on mdui
+
+- [x] Basic Built
+- [ ] Build Complete
 
 ## License
 
