@@ -21,4 +21,4 @@ exclude:
   - LICENSE.txt
   - README.md
   - vendor
-  - rw
+  - docs
