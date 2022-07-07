@@ -1,0 +1,4 @@
+# robots.txt generated at https://www.sojson.com/robots/
+Disallow:https://danicastarr.github.io/sitemap.xml
+Disallow:/rw/
+User-agent: *
