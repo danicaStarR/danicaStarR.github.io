@@ -1,14 +1,13 @@
 ---
 layout: post
 title:  "Liquid 模板语言"
-date:   2022-4-17 13:35:06 +0800
+date:   2022-7-28 13:35:06 +0800
 categories: Page
 tags: Jekyll
 img: https://ooo.0o0.ooo/2017/05/27/5929360544b21.jpg
 ---
 
 此博文用于记录研究 jekyll 时遇到的有趣 `liquid` 语言片段。
-
 ## 统计捐赠
 
 > 效果：[捐赠](https://storyline.kejun.space/pages/menus/donate.html)
