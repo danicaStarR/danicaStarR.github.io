@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "软件脱壳通用思路"
-date:   2022-8-24 20:32:42 +0800
+date:   2022-8-21 20:32:42 +0800
 categories: Page
 tags: Jekyll
 img: https://s2.loli.net/2022/08/24/TqIMuZ4k1Ki6mex.jpg
