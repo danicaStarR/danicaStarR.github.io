@@ -5,6 +5,7 @@ baseurl: ""
 author: "Danicastar"
 paginate: 5
 paginate_path: "/blog/page:num/"
+future: true
 
 plugins:
   - jekyll-sitemap
