@@ -8,7 +8,7 @@ img: https://s2.loli.net/2022/08/24/TqIMuZ4k1Ki6mex.jpg
 ---
 
 # Android逆向之脱壳
-脱壳一般指去除加固包。
+脱壳一般指去除加固包！
 
 已知脱壳有三种手段：
 1. Xposed：例反射大师
