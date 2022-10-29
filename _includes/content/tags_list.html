@@ -68,7 +68,7 @@ function getTagList(id){
         type: "GET",
         url:"{{ "/tags.json" | relative_url }}",
         dataType:"json",
-        cache: true,
+        cache: false,
         success: function(data){
             var content = "<ul class='mdui-list'>";
             $.each(data,function(i,n){
