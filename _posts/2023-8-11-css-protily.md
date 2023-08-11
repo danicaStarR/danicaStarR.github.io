@@ -37,6 +37,7 @@
 3. 无影响者：通配选择符（`*`）关系选择符（`+`, `>`, `~`, `" "`, `||`）和 否定伪类`:not()`对优先级没有影响
 
 >从左到右
+
 ```css
 /* A选择器：(0,2,3) */
 :is(h1) div:nth-child(2n):not(p:selected)
@@ -53,6 +54,7 @@ h1 div.headtext[needcolor]
 ```
 
 >后来居上
+
 ```html
 <link href="foo.css">
 <link href="bar.css">
