@@ -1,3 +1,11 @@
+---
+layout: post
+title:  "CSS 选择器权重"
+date:   2023-08-11 18:00:00 +0800
+categories: Page
+tags: Jekyll
+---
+
 # CSS 选择器权重
 
 声明：本文参考来源于[MDN CSS 优先级](https://developer.mozilla.org/zh-CN/docs/Web/CSS/Specificity)（80％）和B站尚硅谷的[课程](https://m.bilibili.com/video/BV1p84y1P7Z5)（20％）
